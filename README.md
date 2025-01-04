@@ -102,4 +102,5 @@ A data science and machine learning project in predicting customer churn using s
 - **Libraries:** pandas, numpy, scipy, matplotlib, seaborn, scikit-learn, imbalanced-learn, io, joblib
 - **Tools:** Jupyter Notebook, Python 3.11.7
 - **Support:** Generative AI tools, Stack Overflow, and official library documentation were used to support troubleshooting code issues and refining parts of the write-up. All analysis, coding and modelling were performed independently.
+- **Learning Resources:** [Jose Portilla’s courses](https://www.udemy.com/user/joseportilla/) and materials helped to build essential skills that were applied in this project, supplemented by additional independent research and study.
 - **Personal Note:** This project was developed over several months alongside full-time university studies and part-time work. It reflects both my technical skills and my commitment to learning and improving in the field of data science and machine learning.
