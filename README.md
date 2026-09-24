@@ -86,14 +86,8 @@ A data science and machine learning project in predicting customer churn using s
      ```
 
 ## Future Work
-- **Clean up the project**
-   Refine the notebook and PDF by fixing typos and removing redundant code.
-- **Build an API for deployment**
-   Develop a REST API using Flask or Django to deploy the trained model to enable real-time predictions. Explore integrating the model within a cloud environment, such as AWS or Azure.
 - **Feature pruning**
    Assess whether removing less important features can maintain or improve model performance metrics (e.g. precision, recall), thereby reducing redundancy and improving efficiency.
-- **Expand hyperparameter tuning**
-   Perform a more extensive hyperparameter search across the other models, particularly the ensemble methods like Random Forest and Gradient Boosting. This includes testing additional parameters and increasing the number of k-folds in cross-validation to improve model generalisation.
 - **Explore other models**
    Experiment with alternative models, such as XGBoost, and compare their performance against the current final model.
 
